@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mashtura Mazed
+- 👋 Hi, I’m a CSE Graduate from BRACU
 - 👀 NLP, Data Analysis, Text Mining Projects.
 - 🌱 Learning NLP, Java,Technical Testing.
 - 💞️ Learning algorithms
