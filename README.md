@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a CSE Graduate from BRACU
+- 👋 Hi, I’m a software engineer (Java).
 - 👀 NLP, Data Analysis, Text Mining Projects.
 - 🌱 Learning NLP, Java,Technical Testing.
 - 💞️ Learning algorithms
