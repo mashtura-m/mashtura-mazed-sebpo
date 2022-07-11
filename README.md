@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a software engineer (Java).
+- 👋 Hi, I’m a software engineer.
 - 👀 NLP, Data Analysis, Text Mining Projects.
 - 🌱 Learning NLP, Java,Technical Testing.
 - 💞️ Learning algorithms
