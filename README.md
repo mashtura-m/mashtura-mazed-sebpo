@@ -6,7 +6,7 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mashtura-mazed-sebpo&show_icons=true&theme=gotham" alt="mashtura-mazed" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mashtura-mazed-sebpo&show_icons=true&theme=gotham" alt="mashtura mazed" />
 
 
 
